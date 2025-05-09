@@ -1,1 +1,4 @@
-flask
+streamlit
+pandas
+duckduckgo_search
+openpyxl
